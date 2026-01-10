@@ -1,0 +1,7 @@
+{
+  "name": "PantryPal - AI Recipe Generator",
+  "description": "Upload a photo of your fridge or pantry to automatically detect ingredients and get instant recipe suggestions to reduce food waste.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
